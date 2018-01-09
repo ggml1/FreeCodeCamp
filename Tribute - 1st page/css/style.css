@@ -1,0 +1,26 @@
+#well {
+	background-color: #DCDCDC;
+	border-radius: 5px;
+	margin: 20px 30px 10px 30px;
+}
+
+.photo-subtitle {
+	font-size: 13px;
+}
+
+#profilePic {
+	border-radius: 5px;
+}
+
+#profilePicWell {
+	padding: 2px;
+	margin: 0 auto;
+	float: none;
+	margin-bottom: 10px;
+	background-color: white;
+}
+
+#lifeStuff {
+	font-size: 14px;
+	margin-bottom: -2px;
+}
